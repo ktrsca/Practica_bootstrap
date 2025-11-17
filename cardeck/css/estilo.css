@@ -1,0 +1,44 @@
+
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital);
+
+body{
+    font-family: "Roboto", sans-serif;
+    color: #ffffff;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.bnt-toolbar{
+    margin-bottom: 15px;
+}
+
+.card-body{
+    padding: 0.5rem;
+}
+
+.h5, h5{
+    font-size: 2.25rem;
+    font-family: 'Montserrat Alternates', Arial, sans-serif;
+    font-style: italic;
+    color: #000000;
+}
+
+.card{
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+.cardSet1{
+    background-color: #669999;
+}
+
+.cardSet2{
+    background-color: #cc6666;
+}
+
+.cardSet3{
+    background-color: #cc9966;
+}
+
